@@ -33,7 +33,8 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 4. Run SQL queries to analyze the data and extract insights.
 
 ## Project Structure
-* data/: Folder containing the dataset
+* data.1: Folder containing the dataset for COVID Deaths
+* data.2: Folder containing the dataset for COVID Vaccinations
 * scripts/: SQL scripts for data loading and analysis
 * README.md: Project overview and instructions
 
