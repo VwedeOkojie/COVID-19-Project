@@ -36,7 +36,7 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 * data.1: Folder containing the dataset for COVID Deaths
 * data.2: Folder containing the dataset for COVID Vaccinations
 * scripts/: SQL scripts for data loading and analysis
-* README.md: Project overview and instructions
+* README.md: Project overview and instructions (You are here)
 
 ## Contributing
 Contributions are welcome via pull requests. Please follow the contribution guidelines in the repository.
