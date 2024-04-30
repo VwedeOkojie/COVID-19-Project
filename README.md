@@ -34,14 +34,11 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 
 ## Project Structure
 * data/: Folder containing the dataset
-* scripts.1/: SQL scripts for data cleaning 
-* scripts.2/: SQL scripts for data analysis
+* scripts/: SQL scripts for data loading and analysis
 * README.md: Project overview and instructions
 
 ## Contributing
-* data/: Folder containing the dataset
-* scripts/: SQL scripts for data loading and analysis
-* README.md: Project overview and instructions
+Contributions are welcome via pull requests. Please follow the contribution guidelines in the repository.
 
 ## License
 The project is licensed under MIT License.
