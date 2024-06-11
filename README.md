@@ -9,7 +9,8 @@ This project aims to analyze COVID-19 deaths data to gain insights into the glob
 The project uses COVID-19 deaths data sourced from Our World in Data. The dataset provides daily counts of COVID-19 deaths for various countries.
 
 ## Technolgies Used
-* SQL
+* SQL (SMSS)
+* Python (Jupyter Notebook)
 
 ## Data Processing
 * Cleaning the dataset (handling missing values, removing duplicates)
