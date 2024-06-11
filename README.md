@@ -20,11 +20,19 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 * Loading the cleaned data into a SQL database
 
 ## Analysis and Insights
-* Total number of deaths globally
-* Daily death trends
-* Regional comparisons
-* Mortality rates
-* Impact of interventions (lockdowns, mask mandates, etc.)
+
+1. **Total Deaths Analysis:**
+    - Global death trends
+    - Death rates by country and region
+    - Analysis performed using Python
+2. **Infection Rate Analysis:**
+    - Highest infection rates by country
+    - Trends in infection rates over time
+    - Analysis performed using Python
+3. **Vaccination Analysis:**
+    - Percentage of population vaccinated over time
+    - Regional vaccination comparisons
+    - Analysis performed using Python
 
 ## How to Use the Project
 1. Download the dataset from the provided source.
@@ -33,16 +41,17 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 4. Run SQL queries to analyze the data and extract insights.
 
 ## Project Structure
-- Data.1                   # Folder containing the dataset for COVID Deaths
-  - covid_deaths.csv
-- Data.2                   # Folder containing the dataset for COVID Vaccinations
-  - covid_vaccinations.csv
-- SQL Scripts              # Folder containing SQL scripts for data loading and analysis
-  - data_loading.sql
-  - data_analysis.sql
-- Covid Analysis Python Chart.ipynb # Jupyter Notebook for Python visualizations
-- Python Script.ipynb      # Jupyter Notebook for Python script
-- README.md                # Project overview and instructions (You are here)
+
+Data.1 # Folder containing the dataset for COVID Deaths
+covid_deaths.csv
+Data.2 # Folder containing the dataset for COVID Vaccinations
+covid_vaccinations.csv
+SQL Scripts # Folder containing SQL scripts for data loading and analysis
+data_loading.sql
+data_analysis.sql
+Covid Analysis Python Chart.ipynb # Jupyter Notebook for Python visualizations
+Python Script.ipynb # Jupyter Notebook for Python script
+README.md # Project overview and instructions (You are here)
 
 
 ## Contributing
