@@ -33,16 +33,16 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 4. Run SQL queries to analyze the data and extract insights.
 
 ## Project Structure
-├── Data.1                   # Folder containing the dataset for COVID Deaths
-│   ├── covid_deaths.csv
-├── Data.2                   # Folder containing the dataset for COVID Vaccinations
-│   ├── covid_vaccinations.csv
-├── SQL Scripts              # Folder containing SQL scripts for data loading and analysis
-│   ├── data_loading.sql
-│   ├── data_analysis.sql
-├── Covid Analysis Python Chart.ipynb # Jupyter Notebook for Python visualizations
-├── Python Script.ipynb      # Jupyter Notebook for Python script
-├── README.md                # Project overview and instructions (You are here)
+- Data.1                   # Folder containing the dataset for COVID Deaths
+  - covid_deaths.csv
+- Data.2                   # Folder containing the dataset for COVID Vaccinations
+  - covid_vaccinations.csv
+- SQL Scripts              # Folder containing SQL scripts for data loading and analysis
+  - data_loading.sql
+  - data_analysis.sql
+- Covid Analysis Python Chart.ipynb # Jupyter Notebook for Python visualizations
+- Python Script.ipynb      # Jupyter Notebook for Python script
+- README.md                # Project overview and instructions (You are here)
 
 
 ## Contributing
