@@ -70,7 +70,7 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 
 ## Project Structure
 
-- <span style="color: grey;">`Covid Analysis Python Chart.ipynb - Jupyter Notebook for Python visualizations`</span>
+- <span style="color: grey;">`Covid Analysis Python Chart.ipynb`</span> - Jupyter Notebook for Python visualizations
 - `Data.1` - Folder containing the dataset for COVID Deaths
 - `Data.1` - Folder containing the dataset for COVID Deaths
 - `Data.1` - Folder containing the dataset for COVID Deaths
