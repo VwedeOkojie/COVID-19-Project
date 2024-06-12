@@ -23,16 +23,44 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 
 1. **Total Deaths Analysis:**
     - Global death trends
+   ![Total Cases vs Total Deaths](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/ace28254-c410-4ada-b269-d368aa134fab)
+
+   **Total Cases:** 150,574,977  
+   **Total Deaths:** 3,180,206  
+   **Death Percentage:** 2.11%  
+   This chart provides an overview of the global impact of COVID-19, showing the total number of cases and deaths, with a calculated death percentage.
+
     - Death rates by country and region
-    - Analysis performed using Python
+    ![Top 10 Countries with the Highest Death](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/b67dc79f-0e6c-42f8-9f4c-f1227ea58e95)
+
+    - Total COVID-19 Cases vs. Total Deaths in Canada:
+    ![Total Covid Cases Vs Total Deaths](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/ba92a08c-56d5-499c-8433-8626280962eb)
+
+    This chart compares the cumulative number of COVID-19 cases and deaths in Canada over time. It shows the rapid increase in cases compared to the relatively slower rise in deaths.
+
+    - Continent with the Highest Death Rate:
+    ![Continent with the Highest Death Rate](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/0ff924ae-1ed6-4a0c-8261-9479734cbf34)
+
+    This bar chart compares continents based on their death rates per population. South America has the highest death count, followed by Asia and Europe.
+
 2. **Infection Rate Analysis:**
     - Highest infection rates by country
-    - Trends in infection rates over time
-    - Analysis performed using Python
+   ![Top 10 Countries](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/497bc98c-7fc5-4aef-99a5-f632712b6e30)
+
+    This bar chart ranks the top 10 countries with the highest infection rates relative to their populations. Montenegro, Czechia, and San Marino top the list, indicating the highest percentage of their populations infected.
+
 3. **Vaccination Analysis:**
     - Percentage of population vaccinated over time
+      ![Average Pecentage of Population Vaccinated](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/fa6dcbf7-4af3-4f85-9d10-10226981b04c)
+
+    This line graph tracks the average percentage of the population vaccinated over time, starting from early 2020. It shows an initial increase in vaccination rates which stabilizes over time.
+
     - Regional vaccination comparisons
-    - Analysis performed using Python
+    ![Average Percentage of People Vaccinated](https://github.com/VwedeOkojie/COVID-19-Project/assets/161823174/5cc4639d-9b2b-4e7e-a68e-81730acd526b)
+
+    This chart focuses on the vaccination progress over a more recent period, starting from December 2020 to May 2021, illustrating a steady increase in the percentage of the population vaccinated.
+
+
 
 ## How to Use the Project
 1. Download the dataset from the provided source.
