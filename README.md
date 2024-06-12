@@ -72,13 +72,10 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 
 - [Covid Analysis Python Chart.ipynb](https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/Covid%20Analysis%20Python%20Chart.ipynb) - Jupyter Notebook for Python visualizations
 - [Data.1](https://github.com/VwedeOkojie/COVID-19-Project/blob/962bfee67b62c2d92342cd3a592e039216ecddcf/Data.1) - Folder containing the dataset for COVID Deaths
-- `Data.2` - Folder containing the dataset for COVID Vaccinations
-  - `covid_vaccinations.csv`
-- `Python Script.ipynb` - Jupyter Notebook for Python script
-- `README.md` - Project overview and instructions (You are here)
-- `SQL Scripts` - Folder containing SQL scripts for data loading and analysis
-  - `data_loading.sql`
-  - `data_analysis.sql`
+- [Data.2](https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/Data.2) - Folder containing the dataset for COVID Vaccinations
+- [Python Script.ipynb](https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/Python%20Script.ipynb) - Jupyter Notebook for Python script
+- [README.md](https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/README.md) - Project overview and instructions `You are here`
+- [SQL Scripts[(https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/SQL%20Scripts) - Folder containing SQL scripts for data loading and analysis
 
 
 ## Contributing
