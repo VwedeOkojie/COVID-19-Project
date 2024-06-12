@@ -70,7 +70,8 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 
 ## Project Structure
 
-- - <a href="https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/Covid%20Analysis%20Python%20Chart.ipynb" style="color: grey; text-decoration: none;">Covid Analysis Python Chart.ipynb</a> - Jupyter Notebook for Python visualizations
+- [Covid Analysis Python Chart.ipynb](https://github.com/VwedeOkojie/COVID-19-Project/blob/05866d68124f1d1f6466477e305c2e222941891b/Covid%20Analysis%20Python%20Chart.ipynb) - Jupyter Notebook for Python visualizations
+- `Data.1` - Folder containing the dataset for COVID Deaths
 - `Data.1` - Folder containing the dataset for COVID Deaths
 - `Data.1` - Folder containing the dataset for COVID Deaths
 - `Data.1` - Folder containing the dataset for COVID Deaths
