@@ -67,6 +67,7 @@ The project uses COVID-19 deaths data sourced from Our World in Data. The datase
 2. Clean and preprocess the data using Python if necessary.
 3. Load the data into a SQL database.
 4. Run SQL queries to analyze the data and extract insights.
+5. Run Visualizations on Jupyter Notebook
 
 ## Project Structure
 
